@@ -6,6 +6,7 @@ from kivy.uix.camera import Camera
 from kivy.uix.image import Image
 from kivy.uix.label import Label
 from kivy.clock import Clock
+from kivy.graphics.texture import Texture
 import cv2
 
 class InteractiveVideoApp(App):
